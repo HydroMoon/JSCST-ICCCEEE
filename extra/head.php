@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#F8669E" />
-<title>Aventer | Conferences & Events</title>
+<title>JSCST | Conferences & Events</title>
 <meta name="author" content="Themezinho">
 <meta name="description" content="For all kind of events and organizations website">
 <meta name="keywords"

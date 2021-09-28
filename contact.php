@@ -31,7 +31,7 @@
             <div class="col-12">
               <div data-scroll data-scroll-speed="0.5">
                 <div class="section-title">
-                  <h6>YOU CAN REACH US BY PHONE, EMAIL OR POSTING. </h6>
+                  <h6>YOU CAN REACH US BY PHONE OR EMAIL.</h6>
                   <h2>Get in touch!</h2>
                 </div>
                 <!-- end section-title -->
@@ -42,24 +42,19 @@
             <div class="col-lg-6">
               <div data-scroll data-scroll-speed="-0.5">
                 <div class="contact-box">
-                  <h6>Post address:</h6>
-                  <p>Institute of Historical Research, Malet Street<br>
-                    London - United Kingdom</p>
-                  <p>Phone: <a href="callto:+44 (0)20 7862 8740">+44 (0)20 7862 8740</a></p>
+                  <h6>Address:</h6>
+                  <p>Jordanian Sudanese College for Science and Technology<br>
+                    Khartoum - Sudan</p>
+                  <p>Phone: <a href="callto:+249918007578">+249 918 007 578</a></p>
+                  <p>Phone: <a href="callto:+249912317729">+249 912 317 729</a></p>
                 </div>
                 <!-- end contact-box -->
-                <div class="contact-box">
-                  <h6>For general enquiries:</h6>
-                  <p>If you have a business inquiry, please contact our <br>
-                    marketing department.</p>
-                  <a href="callto:+44 (0)20 7862 8740">general@aventer.co.uk</a>
-                </div>
                 <!-- end contact-box -->
                 <div class="contact-box">
                   <h6>For events enquiries:</h6>
                   <p>Please send event inquiries to the email below.<br>
                     We will get back to you soon</p>
-                  <a href="callto:+44 (0)20 7862 8740">events@aventer.co.uk</a>
+                  <a href="mailto:ieee@jscst.edu.sd">ieee@jscst.edu.sd</a>
                 </div>
                 <!-- end contact-box -->
               </div>
@@ -102,81 +97,8 @@
         <!-- end container -->
       </section>
       <!-- end content-section -->
-      <section class="content-section">
-        <span class="section-bg" data-background="images/section-bg04.png" data-scroll data-scroll-speed="1"></span>
-        <!-- end section-bg -->
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6">
-              <div data-scroll data-scroll-speed="0.5">
-                <div class="transportation-box">
-                  <div class="title">
-                    <figure><img src="images/icon-train.png" alt="Image"></figure>
-                    <h6>By Train</h6>
-                  </div>
-                  <!-- end title -->
-                  <p>You can reach IDS directly from Brighton Station and Lewes Station. Falmer Station is directly
-                    opposite the campus. You can walk to the campus from the station through a subway under the A27.</p>
-                </div>
-                <!-- end transportation-box -->
-              </div>
-              <!-- end data-scroll -->
-              <div data-scroll data-scroll-speed="-0.5">
-                <div class="transportation-box">
-                  <div class="title">
-                    <figure><img src="images/icon-bus.png" alt="Image"></figure>
-                    <h6>By Bus</h6>
-                  </div>
-                  <!-- end title -->
-                  <p>The 23, 25, 25X, 28 and 29 buses run between the
-                    centre of Brighton and the campus.</p>
-                  <p>The 25 buses run from Palmeira Square in Hove, through Churchill Square and the Old Steine in
-                    Brighton, into the campus.</p>
-                </div>
-                <!-- end transportation-box -->
-              </div>
-              <!-- end data-scroll -->
-            </div>
-            <!-- end col-6 -->
-            <div class="col-lg-6">
-              <div data-scroll data-scroll-speed="0.5">
-                <div class="transportation-box">
-                  <div class="title">
-                    <figure><img src="images/icon-car.png" alt="Image"></figure>
-                    <h6>By Car</h6>
-                  </div>
-                  <!-- end title -->
-                  <p>The Institute is at Falmer on the A27 between Brighton and Lewes, about four miles (six kilometres)
-                    from the centre of Brighton.</p>
-                </div>
-                <!-- end transportation-box -->
-              </div>
-              <!-- end data-scroll -->
-              <div data-scroll data-scroll-speed="0.5">
-                <div class="transportation-box">
-                  <div class="title">
-                    <figure><img src="images/icon-bike.png" alt="Image"></figure>
-                    <h6>By Bike</h6>
-                  </div>
-                  <!-- end title -->
-                  <p>If you’re a cyclist, you can benefit from purpose-built bike lanes along Lewes Road connecting the
-                    University to the centre of Brighton.</p>
-                </div>
-                <!-- end transportation-box -->
-              </div>
-              <!-- end data-scroll -->
-            </div>
-            <!-- end col-6 -->
-          </div>
-          <!-- end row -->
-        </div>
-        <!-- end container -->
-      </section>
-      <!-- end content-section -->
       <div class="google-maps">
-        <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23054.09712364693!2d30.489374342996772!3d50.444765814516344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4ce549257acfb%3A0x8d2070a5d66c0e0b!2sGorodetsky%20House!5e0!3m2!1str!2sua!4v1620196862933!5m2!1str!2sua"
-          allowfullscreen loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.291515951829!2d32.506185474519796!3d15.55546366987999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x168e8fbc1d2c82f3%3A0x5577dc8596fcd2bc!2sJordanian%20Sudanese%20College!5e0!3m2!1sen!2s!4v1632857880150!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       </div>
       <!-- end google-maps -->
       <!-- FOOTER -->

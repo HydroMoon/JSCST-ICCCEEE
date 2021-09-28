@@ -102,3 +102,77 @@
         <!-- end events-slider-content -->
       </div>
       <!-- end col-6 -->
+
+
+      <!-- CONTACT GRID -->
+      <section class="content-section">
+        <span class="section-bg" data-background="images/section-bg04.png" data-scroll data-scroll-speed="1"></span>
+        <!-- end section-bg -->
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6">
+              <div data-scroll data-scroll-speed="0.5">
+                <div class="transportation-box">
+                  <div class="title">
+                    <figure><img src="images/icon-train.png" alt="Image"></figure>
+                    <h6>By Train</h6>
+                  </div>
+                  <!-- end title -->
+                  <p>You can reach IDS directly from Brighton Station and Lewes Station. Falmer Station is directly
+                    opposite the campus. You can walk to the campus from the station through a subway under the A27.</p>
+                </div>
+                <!-- end transportation-box -->
+              </div>
+              <!-- end data-scroll -->
+              <div data-scroll data-scroll-speed="-0.5">
+                <div class="transportation-box">
+                  <div class="title">
+                    <figure><img src="images/icon-bus.png" alt="Image"></figure>
+                    <h6>By Bus</h6>
+                  </div>
+                  <!-- end title -->
+                  <p>The 23, 25, 25X, 28 and 29 buses run between the
+                    centre of Brighton and the campus.</p>
+                  <p>The 25 buses run from Palmeira Square in Hove, through Churchill Square and the Old Steine in
+                    Brighton, into the campus.</p>
+                </div>
+                <!-- end transportation-box -->
+              </div>
+              <!-- end data-scroll -->
+            </div>
+            <!-- end col-6 -->
+            <div class="col-lg-6">
+              <div data-scroll data-scroll-speed="0.5">
+                <div class="transportation-box">
+                  <div class="title">
+                    <figure><img src="images/icon-car.png" alt="Image"></figure>
+                    <h6>By Car</h6>
+                  </div>
+                  <!-- end title -->
+                  <p>The Institute is at Falmer on the A27 between Brighton and Lewes, about four miles (six kilometres)
+                    from the centre of Brighton.</p>
+                </div>
+                <!-- end transportation-box -->
+              </div>
+              <!-- end data-scroll -->
+              <div data-scroll data-scroll-speed="0.5">
+                <div class="transportation-box">
+                  <div class="title">
+                    <figure><img src="images/icon-bike.png" alt="Image"></figure>
+                    <h6>By Bike</h6>
+                  </div>
+                  <!-- end title -->
+                  <p>If you’re a cyclist, you can benefit from purpose-built bike lanes along Lewes Road connecting the
+                    University to the centre of Brighton.</p>
+                </div>
+                <!-- end transportation-box -->
+              </div>
+              <!-- end data-scroll -->
+            </div>
+            <!-- end col-6 -->
+          </div>
+          <!-- end row -->
+        </div>
+        <!-- end container -->
+      </section>
+      <!-- end content-section -->

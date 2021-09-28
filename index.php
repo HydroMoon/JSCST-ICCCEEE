@@ -19,7 +19,7 @@
               <div class="events-slider-content">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
-                    <div class="inner">
+                  <div class="inner">
                       <div class="date">
                         <figure><img src="images/icon-date.svg" alt="Image"></figure>
                         <span>May, 2022</span>
@@ -155,13 +155,13 @@ All papers presented in the conference will be published in conference proceedin
                 <div class="schedule-box">
                   <div class="nav">
                     <div class="active" data-bs-toggle="tab" data-bs-target="#tab-content01"> <span class="day">DAY
-                        01</span> <small class="date">WEDNESDAY, FEBRUARY 21</small> </div>
+                        01</span> <small class="date">MAY 2022</small> </div>
                     <!-- tab-nav -->
                     <div data-bs-toggle="tab" data-bs-target="#tab-content02"> <span class="day">DAY 02</span> <small
-                        class="date">THURSDAY, FEBRUARY 22</small> </div>
+                        class="date">MAY 2022</small> </div>
                     <!-- tab-nav -->
                     <div data-bs-toggle="tab" data-bs-target="#tab-content03"> <span class="day">DAY 03</span> <small
-                        class="date">FRIDAY, FEBRUARY 23</small> </div>
+                        class="date">MAY 2022</small> </div>
                     <!-- tab-nav -->
                   </div>
                   <!-- end nav -->
@@ -346,7 +346,7 @@ All papers presented in the conference will be published in conference proceedin
           <div class="row align-items-center">
             <div class="col-lg-6">
               <div data-scroll data-scroll-speed="0.5">
-                <figure class="side-image"> <img src="images/side-image02.jpg" alt="Image"> </figure>
+                <figure class="side-image"> <img src="images/10.jpg" alt="Image"> </figure>
                 <!-- end side-image -->
               </div>
               <!-- end data-scroll -->
